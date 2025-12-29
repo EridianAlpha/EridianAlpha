@@ -1,5 +1,5 @@
 ## eridian.eth
-### Full-Stack Ethereum Developer
+### Full-Stack Developer
 
 🔭 My portfolio: https://eridian.xyz
 
