@@ -1,4 +1,4 @@
-## eridian.eth
+## Eridian
 ### Full-Stack Developer
 
 🔭 My portfolio: https://eridian.xyz
