@@ -1,5 +1,5 @@
-## Eridian
-### Full-Stack Developer
+## eridian.eth
+### Ethereum Settler 🏕️
 
 🔭 My portfolio: https://eridian.xyz
 
